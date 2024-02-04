@@ -17,7 +17,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Tableau" width="26px" src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/tableau-software.svg" style="padding-bottom: 50px; padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/github-mark-white.svg" style="padding-right:10px;" /> 
+<img align="left" alt="GitHub" width="26px" src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/github-mark-white.png" style="padding-right:10px;" /> 
 <br>
 <br>
 
