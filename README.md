@@ -3,20 +3,11 @@
 ### Data Scientist • Graphic Designer • Video Editor
 ====================================================
 
-As a Mathematics student focusing on Data Science with experience in text, digital image, and time series data analysis. I'm highly passionate about the world of data.
-
-I've dabbled around the field of Machine Learning:
-### Natural Language Processing
-* Sentiment Analysis on Bitcoin using cryptoBERT (roBERTa Architecture)
-### Time Series Analysis
-* Bitcoin Price Prediction using Temporal Fusion Transformers
-### Digital Image Processing
-* Cat and Dog Classification through Convolutional Neural Networks
-* Spatial Road Intelligence Mapping: Road Condition Detection using Computer Vision. 
-
+As a Mathematics student focusing on Data Science with experience in text, digital image, and time series data analysis. I'm highly passionate about the world of data. 
 
 * 🌍  I'm based in Kabupaten Tangerang, Indonesia
 * ✉️  You can contact me at [islamayputra7@gmail.com](mailto:islamayputra7@gmail.com)
+* 
 
 ### Skills
 
