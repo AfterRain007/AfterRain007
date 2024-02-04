@@ -15,10 +15,9 @@
 <img align="left" alt="Matlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
 <img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Tableau" width="26px" src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/tableau-logo.svg" style="padding-bottom: 50px; padding-right:10px;" />
-
+<img align="left" alt="Tableau" width="26px" src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/tableau-software.svg" style="padding-bottom: 50px; padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" /> 
+<img align="left" alt="GitHub" width="26px" src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/github-mark-white.svg" style="padding-right:10px;" /> 
 <br>
 <br>
 
