@@ -1,7 +1,7 @@
-Hi 👋 My name is Gilang Islamay
+# Hi 👋 My name is Gilang Islamay
 ===============================
 
-Data Scientist • Graphic Designer • Video Editor
+## Data Scientist • Graphic Designer • Video Editor
 ------------------------------------------------
 
 As a Mathematics student focusing on Data Science with experience in text, digital image, and time series data analysis. I'm highly passionate about the world of data. In the field of Natural Language Processing, I've experimented with transformers and increased the original CryptoBERT model's accuracy from 50% to 68%. With that in mind, I conducted sentiment analysis on a text dataset of over 5 million, using it as an independent variable for time series forecasting with Temporal Fusion Transformers. This produced a model with an RMSE score of 0.0261, surpassing other models like Long-Short Term Memory, Gated Recurrent Unit, and Temporal Convolutional Networks. In the field of digital image, my team and I won the World Youth Invention and Innovation Award with our paper titled 'Spatial Road Intelligence Mapping: Road Condition Detection using Computer Vision.' we detect potholes using YOLO as our architecture of choice. With only 665 images in the dataset, we managed to produce a model with an mAP score of 52% on the Test Dataset and 82% on the Training dataset.
