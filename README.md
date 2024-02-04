@@ -5,8 +5,9 @@
 
 ## About Me
 * 🎓 Undergraduate Student at Islamic University of Indonesia. (Graduating on 25th Of May 2024)
-* 🌍 Based in Tangerang, Indonesia.
 * 💻 Highly Passionate About the World of Data, From Visualization to Machine Learning and Deep Learning Models.
+* 🌍 Based in Tangerang, Indonesia.
+
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:0px;" />
