@@ -4,7 +4,7 @@
 ====================================================
 
 ## About Me
-* 🎓 Undergraduate Student at Islamic University of Indonesia. (Graduating on 25th Of May 2024)
+* 🎓 Undergraduate Student at Syarif Hidayatullah State Islamic University Jakarta. (Graduating on 25th Of May 2024)
 * 💻 Highly Passionate About the World of Data, From Visualization to Deep Learning Models.
 * 🌍 Based in Tangerang, Indonesia.
 
