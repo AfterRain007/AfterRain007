@@ -1,6 +1,6 @@
 # Hiya! My name is Gilang Islamay 👋
 
-### Data Scientist • Graphic Designer • Video Editor
+### Data Analyst • Data Scientist
 ====================================================
 
 ## About Me
