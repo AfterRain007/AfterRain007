@@ -32,6 +32,7 @@
 
 ### Other
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture>
+<img align="left" alt="Tableau" width="32px" src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/figma-seeklogo.svg" style="padding-bottom: 50px; padding-right:0px;" />
 
 
 
