@@ -18,16 +18,22 @@
 <img align="left" alt="R" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:0px;" />
 <img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:0px;" />
 
+<br>
+
 ### Business Intelligence
 <img align="left" alt="Tableau" width="32px" src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/tableau-software.svg" style="padding-bottom: 50px; padding-right:0px;" />
+
+<br>
 
 ### Database
 <img align="left" alt="MySQL" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:0px;" /> <a href="https://www.github.com/AfterRain007" target="_blank" rel="noreferrer"> <picture> 
 
+<br>
+
 ### Other
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture>
 
-<br>
+
 
 ## Feel Free to Contact Me On
 <p align="left"> <a href="http://www.instagram.com/razel007/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/instagram-seeklogo-white.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/instagram-seeklogo.svg" /> <img src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/cdnlogo.com_instagram.svg" width="32" height="32" /> </picture> 
