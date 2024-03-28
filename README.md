@@ -20,7 +20,7 @@
 <br>
 
 ### Business Intelligence
-<img align="left" alt="PowerBI" height="32" src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/Microsoft-Power-BI-Logo.png" style="padding-bottom: 50px; padding-right:0px;"/>
+<img align="left" alt="PowerBI" height="32" src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/Microsoft-Power-BI-Logo_PNG4 1.svg" style="padding-bottom: 50px; padding-right:0px;"/>
 <img align="left" alt="Tableau" width="32px" src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/tableau-software.svg" style="padding-bottom: 50px; padding-right:0px;" />
 
 <br>
