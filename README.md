@@ -36,6 +36,12 @@
 <img align="left" alt="Tableau" width="32px" height="32" src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/pngwing.com.png" style="padding-bottom: 50px; padding-right:0px;"/> 
 
 ## Feel Free to Contact Me On
-<p align="left"> <a href="http://www.instagram.com/razel007/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/instagram-seeklogo-white.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/instagram-seeklogo.svg" /> <img src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/cdnlogo.com_instagram.svg" width="32" height="32" /> </picture> 
-</a> <a href="https://www.linkedin.com/in/gilang-islamay-putra-djuharis-842196259/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture>
-</a> <a href="https://www.youtube.com/@afterrain37" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/YouTube-Icon-Full-Color-Logo.wine.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/YouTube-Icon-Full-Color-Logo.wine.svg" /> <img src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/YouTube-Icon-Full-Color-Logo.wine.svg" width="32" height="32"/> </picture> </a></p>
+<p align="left">
+  <a href="http://www.instagram.com/razel007/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/cdnlogo.com_instagram.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/gilang-islamay-putra-djuharis-842196259/" target="_blank" rel="noreferrer" style="margin-left: 10px;">  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.youtube.com/@afterrain37" target="_blank" rel="noreferrer" style="margin-left: 10px;">  <img src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/YouTube-Icon-Full-Color-Logo.wine.svg" width="32" height="32"/>
+  </a>
+</p>
