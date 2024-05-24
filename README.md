@@ -1,6 +1,6 @@
 # Hiya! My name is Gilang Islamay 👋
 
-### Data Analyst • Data Scientist
+### Data Analyst • Data Scientist • Web Developer
 
 ## About Me
 * 🎓 Bachelor of Mathematics with a specialization in Data Science
