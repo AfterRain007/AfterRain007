@@ -3,9 +3,9 @@
 ### Data Analyst • Data Scientist • Web Developer
 
 ## About Me
-* 🎓 Bachelor of Mathematics with a specialization in Data Science
-* 💻 Highly Passionate About the World of Data, From Visualization to Deep Learning Models.
-* 🌍 Based in Tangerang, Indonesia.
+🎓 Bachelor of Mathematics with a specialization in Data Science <br>
+💻 Highly Passionate About the World of Data, From Visualization to Deep Learning Models.<br>
+🌍 Based in Tangerang, Indonesia.
 
 ## Languages and Tools
 ### Programming Language
