@@ -36,6 +36,7 @@
 
 <br>
 
+### Other
 <img align="left" alt="Tableau" width="32px" height="32" src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/figma-seeklogo.svg" style="padding-bottom: 50px; padding-right:0px;"/>
 <img align="left" alt="Tableau" width="32px" height="32" src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/photoshop.png" style="padding-bottom: 50px; padding-right:0px;"/> 
 <img align="left" alt="Tableau" width="32px" height="32" src="https://github.com/AfterRain007/AfterRain007/blob/main/Logo%20Etc/sony-vegas-logo-icon.svg" style="padding-bottom: 50px; padding-right:0px;"/> 
